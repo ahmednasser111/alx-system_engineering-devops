@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -nlad . ../  /boot 
+ls -nla . ../  /boot 
